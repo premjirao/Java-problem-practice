@@ -21,8 +21,8 @@ public class Recursion{
             return 1;
         }
         int prem=fact(n-1);
-        int sanjana=n*prem;
-        return sanjana;
+        int rao = n*prem;
+        return rao;
     }
     public static void main(String[] args){
         print1toN(5);
