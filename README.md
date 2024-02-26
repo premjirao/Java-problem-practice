@@ -1,3 +1,3 @@
-# Java-problem-practice
-This is problems and solution while i learn core java concept.
+# Java-problems-practice
+the some problems on java Data structure analized more concept based on algoriths
 -Prem dev
